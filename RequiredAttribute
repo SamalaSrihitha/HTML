@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head> <title>Example </title></head>
+<body>
+<input type="name" value="name" required/>
+<p> Without entering the value name we will not submit the form if required is added inside the input text</p>
+</body>
+</html>
