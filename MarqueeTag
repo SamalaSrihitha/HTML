@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head> <title>Example </title></head>
+<body>
+<p>
+<marquee direction="right"> This is text inside marquee tag(direction="right", "left", "top", "bottom") (behaviour="slide", "scroll") </marquee>
+</p>
+</html>
