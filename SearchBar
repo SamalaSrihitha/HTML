@@ -1,0 +1,11 @@
+<!Doctype Html>  
+<Html>     
+<Head>      
+<Title>     
+Add the space using Html tags  
+</Title>  
+</Head>  
+<Body>   
+<input type="search" placeholder="search.."> 
+</Body>  
+</Html> 
