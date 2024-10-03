@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+<p> Unordered list </p>
+<ul type="square">
+<li>List Item 1 </li>
+<li>List Item 2 </li>
+<li>List Item 3 </li>
+</ul>
+<ul type="circle">
+<li>List Item 1 </li>
+<li>List Item 2 </li>
+<li>List Item 3 </li>
+</ul>
+<ul type="disc">
+<li>List Item 1 </li>
+<li>List Item 2 </li>
+<li>List Item 3 </li>
+</ul>
+<ul>
+<li>List Item 1 </li>
+<li>List Item 2 </li>
+<li>List Item 3 </li>
+</ul>
+<p> ordered list </p>
+<ol>
+<li>List Item 1 </li>
+<li>List Item 2 </li>
+<li>List Item 3 </li>
+</ol>
+<p> definitation list </p>
+<dl>
+<dt>table</td>
+<dd> represent table structure </dd>
+</dl>
+</body>
+</html>
