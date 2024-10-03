@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head> <title>Example </title></head>
+<body>
+<img src="image.png" usemap="#workspace">
+<map name="workspace">
+<area shape="rect" coords="0,20,240, 320" href="a.html">
+<area shape="rect" coords="0,20,240, 350" href="b.html">
+</map>
+</body>
+</html>
