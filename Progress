@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<head> <title>Example </title></head>
+<body>
+<progress value="43" max="100"> Is used to represent the progress of any task </progress>
+</body>
+</html>
