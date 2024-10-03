@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head> <title>Example </title></head>
+<body>
+<figure>
+<figcaption> Is used to represent the caption for the image or diagram</figcaption>
+Is used handle group of images or diagrams
+<img src="image.png" width="200" height="200">
+</figure>
+</body>
+</html>
