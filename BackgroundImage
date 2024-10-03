@@ -1,0 +1,11 @@
+<!Doctype Html>
+<Html>   
+<Head> 
+<Title>   
+Change the background color using Inline style attribute
+</Title>
+</Head>
+<body background="image.png"> 
+<p> To add background image</p>
+</Body>
+</Html> 
