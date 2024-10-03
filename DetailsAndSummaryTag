@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head> <title>Example </title></head>
+<body>
+<details>
+<summary> It provides simple summary of the content inside the details tag </summary>
+It provides the flexibility to user whether we can hide or view the content in the web page. It provides a drop down for the user. 
+</details>
+</body>
+</html>
