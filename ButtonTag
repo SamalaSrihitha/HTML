@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<head> <title>Example </title></head>
+<body>
+<button type="button" name="clickme"> Is used to add button in the web page</button>
+</body>
+</html>
