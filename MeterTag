@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<head> <title>Example </title></head>
+<body>
+<meter value="43" min="1" max="100"> Is used to measure the data within the given range </progress>
+</body>
+</html>
