@@ -1,0 +1,16 @@
+<!Doctype Html>
+<Html>   
+<Head> 
+<Title>   
+Change the background color using Inline style attribute
+</Title>
+</Head>
+<body> 
+
+<p align="center">  alignment of the text in center </p>
+<p align="right">  alignment of the text in right </p>
+<p align="left">  alignment of the text in left </p>
+<p style="text-align:center;"> Aligning the text to the center in another way</p>
+<center> It is another the way of aligning the text to the center</center>
+</Body>
+</Html>
