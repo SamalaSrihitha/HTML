@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head> <title>Example </title></head>
+<body>
+<p>
+<font color="red">Red Color </font><br>
+<font color="Blue">Blue Color </font>
+<br>
+<font color="Purple">Purple Color </font>
+</p>
+</html>
