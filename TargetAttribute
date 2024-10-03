@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Page</title>
+</head>
+<body>
+<a href="https://www.javatpoint.com/html-interview-questions" target="_blank"> opens the document in the new tab</a><br>
+<a href="https://www.javatpoint.com/html-interview-questions" target="_self"> opens the document in the same tab</a><br>
+<a href="https://www.javatpoint.com/html-interview-questions" target="_parent"> opens the document in parent frame</a><br>
+<a href="https://www.javatpoint.com/html-interview-questions" target="_top"> opens the document in a full body window<a></a>
+</body>
+</html>
