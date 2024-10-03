@@ -1,0 +1,40 @@
+<!Doctype Html>  
+<Html>     
+<Head>      
+<Title>     
+Add the space using Html tags  
+</Title>  
+</Head>  
+<Body> 
+<form>
+<label> Firstname</label>
+<input type="text" name="firstName"><br><br>
+<label> Lastname :</label>
+<input type="text" name="Lastname"><br><br>
+<label> Course </label>
+<select>
+<option>Course</option>
+<option>BCA</option>
+<option>BBA</option>
+<option>B.tech</option>
+<option>MBA</option>
+<option>MCA</option>
+</select><br><br>
+<label> Gender:</label><br>
+<input type="radio" name="Male" value="Male"> Male </input><br>
+<input type="radio" name="FEMale"> Female </input><br>
+<input type="radio" name="Other"> Other </input><br>
+<br>
+<label> Hobbies:</label><br>
+<input type="checkbox" name="Male" > Programming </input><br>
+<input type="checkbox" name="FEMale"> Cricket </input><br>
+<input type="checkbox" name="Other"> Football </input><br><br>
+<label> PhoneNumber :</label>
+<input type="Phone" name="Phonenumber"><br><br>
+<label> Address :</label>
+<textarea value="address" cols="80" rows="5"></textarea>
+<input type="submit" value="Submit">    
+<input type="reset" value="Reset">  
+</form>
+</Body>  
+</Html>  
