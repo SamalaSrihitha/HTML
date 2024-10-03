@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head> <title>Example </title></head>
+<body background="image.png">
+<audio controls>
+<source src="audio.mp4" type="audio/mp3">
+</audio>
+</body>
+</html>
