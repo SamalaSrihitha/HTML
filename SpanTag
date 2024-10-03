@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head> <title>Example </title></head>
+<body background="image.png">
+<p> 
+<span style="color:#000fff">
+There should be some text inside</p>
+</span>
+</body>
+</html>
