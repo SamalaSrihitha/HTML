@@ -1,0 +1,16 @@
+<!Doctype Html>  
+<Html>     
+<Head>      
+<Title>     
+Add the space using Html tags  
+</Title>  
+<style>
+ hr {  
+    transform: rotate(90deg);  
+} 
+</style>
+</Head>  
+<Body>   
+<hr size="10" width="10%" color="red"><br> <center>It will create line vertically </center>
+</Body>  
+</Html>  
