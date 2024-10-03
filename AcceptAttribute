@@ -1,0 +1,12 @@
+<!Doctype Html>  
+<Html>     
+<Head>      
+<Title>     
+Add the space using Html tags  
+</Title>  
+</Head>  
+<Body>   
+<label> Accept attributes specify which file type is allowed </label>
+<input type="file" id="imagefile" accept="image/*" multiple>
+</Body>  
+</Html>
